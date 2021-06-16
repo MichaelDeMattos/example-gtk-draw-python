@@ -1,0 +1,4 @@
+*.pyc
+*.ui~
+.vscode
+*__pycache__
