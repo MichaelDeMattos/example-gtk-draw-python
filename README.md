@@ -1,2 +1,2 @@
 # gtk-util
-Tips for usage Gtk with Python
+Example how to work with gtk draw using Python with PyGobject. 
